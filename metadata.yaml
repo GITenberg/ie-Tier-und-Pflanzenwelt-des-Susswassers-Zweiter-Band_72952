@@ -1,5 +1,8 @@
 _repo: ie-Tier-und-Pflanzenwelt-des-Susswassers-Zweiter-Band_72952
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72952-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Apstein, Carl Heinrich
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '56869'
     url: http://www.gutenberg.org/2009/agents/56869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72952#ie-Tier-und-Pflanzenwelt-des-Susswassers-Zweiter-Band
 gutenberg_issued: '2024-02-13'
 gutenberg_type: Text
 identifiers:
